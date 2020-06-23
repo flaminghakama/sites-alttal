@@ -1,0 +1,76 @@
+
+/* Used by homepage */
+
+body { background: url(/media/images/alttal/id/bullseyes_background.gif) center no-repeat ; }
+
+a:visited { color: #401d22 ; }
+    
+td.left_column { width: 256px ; vertical-align: top; }
+td.right_column { width: 456px ; vertical-align: top; }
+
+div.logo { margin: 5px 15px 5px 5px ; } 
+
+h1 { margin: 0px 0px 0px 0px ; padding: 7px 0px 0px 0px ; color: #401d22 ; font-family: Arial, Helvetica, sans-serif; font-size: 15px ; font-weight: bold ; }
+
+div.heading { margin: 0px 0px 0px 20px ; padding: 6px 10px 10px 24px ; color: #401d22 ; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold ; }
+
+div.upcoming_gigs, div.about_the_band, div.audio { background: transparent url(/media/images/alttal/id/heading_bg_200.png) no-repeat ; }
+
+div.text_content { clear: left ; margin: 5px 0px 25px 20px ; padding: 0px 40px 0px 15px ; color: #000000 ; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal ; }
+
+div.venue_logo { margin: 0px 0px 0px 26px ; }
+div.venue_logo_right { float: right ; margin: 0px 0px 0px 12px ; }
+
+div.CD_title { display: inline ; font-weight: bold ; font-style: oblique ; }
+
+div.bandmember_icon { float: left ; margin: 0px 15px 0px 0px ; padding: 12px ; background: transparent no-repeat url(/media/images/alttal/id/thumbnail_bg.png) ; }
+
+div.bandmember_brief { padding: 22px 0px 0px 0px ; }
+
+div.review_content { padding: 8px 0px 0px 0px ; }
+
+div.icon {  float: right ; display: inline ; }
+
+div.gig_info { text-transform: uppercase ; font-size: 11px ; line-height: 14px ; color: #401d22 ; }
+div.gig_date { font-weight: bold ; }
+
+div.review_info { text-transform: uppercase ; font-size: 11px ; line-height: 14px ; color: #401d22 ; padding: 10px 0px 0px 0px ;}
+
+div.review_info p { margin: 0px ; padding: 0px ;}
+
+
+ul li { list-style: outside ; list-style-image: url(favicon.ico) ;  margin: 0px 0px 14px 0px ; }
+
+ul.bottom_nav li { display: inline ; list-style: outside ; background: url(favicon.ico) no-repeat ;  padding: 8px 0px 8px 36px ; margin: 0px 14px 0px 8px ; }
+
+div.bandmember_icon img { padding: 0px; }
+
+a { text-decoration: none; }
+
+/* Used by images.html */
+
+div.photo_nav { float: left ; }
+
+div.featured_image { position: absolute; top: 100 ; width: 1020 ; height: 1020 ; }
+
+div.grouping { float: none ; }
+
+div.photo_thumbnail_hz { background: transparent url(/media/images/alttal/id/thumbnail-border-hz.gif) no-repeat ;}
+div.photo_thumbnail_hz:hover { background: transparent url(/media/images/alttal/id/thumbnail-border-hz-highlight.gif) no-repeat ; }
+
+div.photo_thumbnail_vt { background: url(/media/images/alttal/id/thumbnail-border-vt.gif) no-repeat ; }
+div.photo_thumbnail_vt:hover { background: url(/media/images/alttal/id/thumbnail-border-vt-highlight.gif) no-repeat; }
+
+div.grouping a { text-transform: normal; color: #a81f24 ; font-size: 10px ; }
+
+a img { border: none; }
+
+div img { padding: 10px; }
+
+div img.not_last { padding: 10px 10px 0px 10px; }
+div img.not_first { padding: 0px 10px 10px 10px; }
+div img.middle { padding: 0px 10px 0px 10px; }
+
+iframe { border: none ; }
+div.ilike { display: inline ; padding: 0px 0px 0px 6px ; } 
+
